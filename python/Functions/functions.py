@@ -9,5 +9,3 @@ def sum():
     print(a + b)
 
 sum()
-
-# this test it is
