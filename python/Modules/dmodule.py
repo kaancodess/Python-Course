@@ -16,3 +16,5 @@ result = datetime.strftime(now,'%A') # getting one information at current time Y
 # B > getting  month information as a string
 result = datetime.strftime(now,'%Y %B %A') # getting year , month and day as a string
 print(result)
+
+# 31
