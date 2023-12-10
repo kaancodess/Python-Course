@@ -19,5 +19,3 @@ account = BankAccount("Kaan")
 
 print(account.deposit(1000))
 print(account.getBalance())
-
-print(account.withdraw(1300))
