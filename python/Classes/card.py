@@ -9,6 +9,6 @@ class Card:
     def __repr__(self): # changing ram memory address
         return f"{self.type} {self.value}"
     
-spade5 = Card("Spade","5")
+spade5 = Card("Spade","5") # as 5
 
 print(spade5)
