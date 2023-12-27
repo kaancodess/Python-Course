@@ -46,11 +46,3 @@ print(User.display_active_users())
 print(Moderator.display_active_moderators())
 print(m1.remove_post())
 print(m1.update_post())
-
-
-
-
-
-
-
-
