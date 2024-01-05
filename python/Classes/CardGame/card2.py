@@ -32,7 +32,7 @@ class Deck:
         # shuffled_deck = random.sample(self.cards, len(self.cards))
         # print(shuffled_deck)
         random.shuffle(self.cards)
-
+        
     def numberOfCards(self):
         return len(self.cards)
 
