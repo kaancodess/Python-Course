@@ -10,6 +10,6 @@ comment3 = Comment("kaangzl123","today is a awful day",300,20)
 comment4 = Comment("kaangzl123","today is a beautiful day")
 
 comments = [comment1,comment2,comment3,comment4]
-
+# this is a comment
 for c in comments:
     print(f"{c.username} commented {c.text} and get {c.likes} likes and {c.dislikes} dislikes")
