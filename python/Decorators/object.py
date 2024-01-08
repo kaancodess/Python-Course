@@ -1,6 +1,6 @@
 def greeting(name):
     print("hello" ,name)
-# this is a test for github
+
 #print(greeting("John"))
 #print(greeting)
 
