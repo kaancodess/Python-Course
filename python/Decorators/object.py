@@ -1,7 +1,6 @@
 def greeting(name):
     print("hello" ,name)
 
-
 #print(greeting("John"))
 #print(greeting)
 
